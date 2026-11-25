@@ -1,0 +1,15 @@
+# Entornos y cachés de Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Datos locales y archivos de usuarios (no publicar)
+*.sqlite3
+media/
+.env
+.env.*
+
+# Configuración del editor y reportes temporales
+.vscode/
+/prueba_reporte.pdf
